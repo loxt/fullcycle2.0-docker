@@ -1,0 +1,1 @@
+WORKDIR /var/www
