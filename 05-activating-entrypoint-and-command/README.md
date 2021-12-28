@@ -15,7 +15,7 @@ php -r "unlink('composer-setup.php');"
 ```
 
 ```shell
-apt install libzip-dev -y
+apt install libzip-dev
 ```
 
 ```shell
