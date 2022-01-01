@@ -1,0 +1,19 @@
+{
+  "name": "11-node-challenge",
+  "version": "1.0.0",
+  "description": "Build image: ```  docker build -t loxt/nginx-with-vim:latest . ```",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "faker": "^5.5.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.5.9"
+  }
+}
